@@ -1,4 +1,4 @@
-## hosts for google form newsmth.net
+#hosts for google form newsmth.net
 #SmartHosts START 
   
 #Google Services START 
@@ -704,7 +704,7 @@
 208.94.0.61	www.yfrog.com 
 #Twitter END 
   
-##YouTube START 
+# #YouTube START 
 203.208.46.206	accounts.youtube.com 
 203.208.46.206	apiblog.youtube.com 
 203.208.46.206	help.youtube.com 
@@ -718,7 +718,7 @@
 203.208.46.206	s.ytimg.com 
 203.208.46.206	www.youtube.com 
 203.208.46.206	ytimg.l.google.com 
-##YouTube END 
+# #YouTube END 
   
   
 #Feedly START 
